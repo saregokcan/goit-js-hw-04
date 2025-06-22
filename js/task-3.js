@@ -14,3 +14,4 @@ const profile = {
     return `${this.username} has ${this.playTime} active hours!`;
   }
 };
+
